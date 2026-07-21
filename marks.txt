@@ -1,0 +1,3 @@
+name,marks
+divya,80
+siva,60
