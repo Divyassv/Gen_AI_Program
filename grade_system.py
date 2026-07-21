@@ -21,4 +21,4 @@ try:
     grade = calculate_grade(float(mark))
     print(f"Your grade is: {grade}")
 except Exception as e:
-    print(f"Divya: {e}")
+    print(f"Error: {e}")
